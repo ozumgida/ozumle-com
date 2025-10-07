@@ -1,0 +1,84 @@
+{
+  "products": [
+    {
+      "id": "p500",
+      "name": "Erzincan Tulum Peyniri 500 gr",
+      "url": "erzincan-tulum-peyniri-500gr",
+      "price": 250,
+      "shortDesc": "Erzincan’ın eşsiz tulum peyniri, yarım kiloluk paketi ile daha pratik. Doğal ve yoğun lezzetiyle sofralarınıza farklılık katın.",
+      "metaDesc": "Kendine has keskin aroması ve kremsi dokusuyla, asırlık bir geleneğin ürünü olan Erzincan tulum peyniri, coğrafi işaretli özel bir lezzet.",
+      "keywords": "Erzincan tulum peyniri, coğrafi işaretli peynir, 500 gr tulum peyniri, geleneksel peynir, Munzur Dağları peyniri, organik peynir, doğal fermantasyon, Özüm'le gıda, Anadolu lezzeti, probiyotik peynir",
+      "longDesc": [
+        "Erzincan tulumu, Munzur Dağları eteklerindeki meralarda beslenen hayvanların taze sütünden yapılır ve coğrafi işaret tesciliyle koruma altındadır.",
+        "Peynirin karakteristik aroması, deri tulum içinde 3-6 ay boyunca olgunlaşması ve doğal mağaralarda muhafaza edilmesi sayesinde gelişir.",
+        "Her lokma, kremsi yapısı ve hafif acımsı ardıl tadıyla damakta unutulmaz bir deneyim bırakır.",
+        "Mevsimsel çeşitlilik, her parti peynire hafif farklılıklar kazandırır, bu da onu zanaatkâr bir ürün yapar.",
+        "Yöre halkının yaşam biçimini yansıtan bu peynir, son yıllarda dünyaca ünlü şeflerin de dikkatini çekmeye başlamıştır.",
+        "Protein, kalsiyum ve sağlıklı yağ asitleri açısından zengin bileşimi ile sadece lezzetli değil, besleyicidir de.",
+        "En iyi şekilde tüketebilmek için oda sıcaklığında servise getirilmeli ve kızarmış ekmek, taze meyveler veya bal ile eşleştirilmelidir.",
+        "Peynirin olgunlaşması sırasında gelişen mikroflora, sindirimi destekleyen probiyotik özellikler taşır.",
+        "500 gramlık paket, sofralık tüketim ve özel tarifler için ideal bir seçenektir."
+      ]
+    },
+    {
+      "id": "p1000",
+      "name": "Erzincan Tulum Peyniri 1 kg",
+      "url": "erzincan-tulum-peyniri-1000gr",
+      "price": 500,
+      "shortDesc": "Bin yıllık bir geleneğin modern sofralarımıza taşıdığı, keçi derisi içinde olgunlaştırılmış, aromatik ve kuvvetli karaktere sahip otantik bir lezzet.",
+      "metaDesc": "Munzur Dağları'nın endemik bitkileriyle beslenen hayvanların sütünden üretilen, tam 1 kilogramlık gerçek Erzincan tulumu deneyimi.",
+      "keywords": "Erzincan tulum peyniri, kilo tulum peyniri, Slow Food, keçi derisi tulumu, 1 kg peynir, Anadolu peynir kültürü, zanaatkâr ürün, Özüm'le gıda, gurme peynir, doğal olgunlaştırılmış",
+      "longDesc": [
+        "Bin yıllık bir geçmişe sahip Erzincan tulumu, Anadolu'nun kadim peynir kültürünün en değerli örneklerinden biridir.",
+        "Her kilogramı için ortalama 6-7 litre süt kullanılır, bu da onun yoğun lezzet profilini açıklar.",
+        "Ustalar tarafından elle yoğrulan peynir hamuru, keçi derisinden yapılmış tulumlarda olgunlaştırılır.",
+        "Olgunlaşma süresi mevsime göre değişir; kış peyniri daha uzun sürede olgunlaşır ve daha kuvvetli bir karaktere sahiptir.",
+        "Farklı rakımlardaki yaylalarda üretilen tulumlar, kendine özgü etkiler gösterir ve tadım uzmanları tarafından ayırt edilebilir.",
+        "1 kilogramlık format, misafir ağırlamak ve uzun süreli tüketim için idealdir; açıldıktan sonra haftalarca tazeliğini korur.",
+        "Uluslararası Slow Food hareketi tarafından koruma altına alınan bu peynir, nesiller boyu aktarılan bir zanaat ürünüdür.",
+        "Peynirle beraber servis edilecek kuru meyveler, ceviz ve ballı karışımlar, tulum peynirinin komplike aromalarını dengeler.",
+        "Geleneksel kahvaltı sofralarının yanı sıra, gurme sandviçlerde, makarnalarda ve özel risotto tariflerinde kullanılabilir.",
+        "Ayrıca bu ürünü alarak, yöresel üreticilerin sürdürülebilir ekonomisine katkıda bulunarak, kültürel mirasın yaşatılmasına destek olursunuz."
+      ]
+    },
+    {
+      "id": "yt900",
+      "name": "Tuzlu Tereyağı 900 gr",
+      "url": "tuzlu-tereyagi-900gr",
+      "price": 480,
+      "shortDesc": "Kahvaltılardan, yemeklerinize her lokmada lezzet sunan Özüm’le Tuzlu Tereyağımız damakta iz bırakır.",
+      "metaDesc": "Taş değirmenlerde öğütülen deniz tuzuyla harmanlanmış, ateşte pişen her yemeğe derinlik katan, geleneksel usullerle hazırlanan hakiki tereyağı.",
+      "keywords": "Tuzlu tereyağı, yemeklik tereyağı, tahta yayık tereyağı, kaya tuzlu tereyağı, geleneksel tereyağı, 900 gr tereyağı, Anadolu mutfağı, börek tereyağı, Özüm'le tereyağı, doğal fermente",
+      "longDesc": [
+        "Yemyeşil yaylalarda serbest dolaşan hayvanların taze sütünden, sanayi makineleşmesi olmadan elde edilir.",
+        "Sütün kaymağı doğal olarak ayrıştırıldıktan sonra, meşe ağacından yapılmış geleneksel yayıklarda saatlerce çalkalanır.",
+        "Doğal fermentasyon süreci, tereyağının karakteristik ekşimsi notalarını ve kompleks aroma profilini oluşturur.",
+        "Hafif tuzlu formülü, hem yemeklerde kullanım hem de ekmek üzerine sürmek için mükemmel bir denge sağlar.",
+        "Kandaki HDL (iyi kolesterol) seviyesini artıran, kısa ve orta zincirli yağ asitleri ve omega-3 yağ asitleri içerir.",
+        "Kullanılan kaya tuzu, tereyağını doğal olarak korur ve içindeki mineraller ek bir lezzet katmanı oluşturur.",
+        "900 gram tereyağı içeren bu paket, Anadolu mutfağının zengin pilav, börek ve et tariflerini hazırlamak için yeterli miktarı sunar."
+        
+      ]
+    },
+    {
+      "id": "y500",
+      "name": "Tuzsuz Tereyağı 500 gr",
+      "url": "tuzsuz-tereyagi-500gr",
+      "price": 240,
+      "shortDesc": "Yemeklerinize ve hamur işlerinize uyum sağlayan Özüm’le Pastorize Tuzsuz Tereyağımız, dengeli lezzetiyle ideal bir tercihtir.",
+      "metaDesc": "Hiçbir katkı maddesi içermeyen, Fransız usulü yağlı hamur işlerinden Türk baklavasına kadar tüm özel tariflerinizi taçlandıracak premium tuzsuz tereyağı.",
+      "keywords": "Tuzsuz tereyağı, pastacılık tereyağı, baklava tereyağı, patisserie tereyağı, kremsi tereyağı, saf tereyağı, 500 gr tereyağı, Özüm'le tereyağı, doğal krema, premium tereyağı",
+      "longDesc": [
+        "Özenle seçilmiş kaliteli sütten elde edilir.",
+        "Tuzsuz formülü, özellikle hassas tatlılar, kremalı soslar ve özel fırıncılık ürünlerinde saf tereyağı lezzetini öne çıkarır.",
+        "Fransız croissant'ından Türk baklavasına kadar, katmanlı hamur işlerinde tereyağının kristalleşme özellikleri mükemmel sonuçlar verir.",
+        "Tatlı krema tadı ve ipeksi yumuşak dokusu, kahvaltılık ekmek üzerinde lüks bir deneyim sunar.",
+        "Düşük ısılarda bile kolayca eriyerek homojen bir karışım sağlar, bu özelliği hollandaise ve bearnaise gibi nazik soslar için idealdir.",
+        "Çikolatalı ganaj, karamel ve krema gibi tatlı uygulamalarda saf tereyağı aroması, kompozisyona derinlik katar.",
+        "A, D, E ve K vitaminleri açısından zengin olması, bu vitaminlerin yağda çözünür olması nedeniyle vücutta emilimini kolaylaştırır.",
+        "500 gramlık kompakt ambalajı, hem ev kullanıcıları hem de küçük ölçekli profesyonel mutfaklar için ideale yakın bir miktardır.",
+        "Gıda bilimcileri tarafından 'sarı altın' olarak adlandırılan tuzsuz tereyağı, kendi doğal lezzetiyle en saf haliyle tadılmalıdır."
+      ]
+    }
+  ]
+}

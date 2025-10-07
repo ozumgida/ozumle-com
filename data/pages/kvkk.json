@@ -1,0 +1,84 @@
+{
+  "parts": [
+    {
+      "title": "KİŞİSEL VERİLERİN KORUNMASI KANUNU (KVKK) AYDINLATMA METNİ",
+      "content": [
+        "İşbu Aydınlatma Metni, 6698 sayılı Kişisel Verilerin Korunması Kanunu (\"KVKK\") kapsamında, veri sorumlusu sıfatıyla [Şirket/Marka Adı] (\"[Web Sitesi Adı]\") tarafından, web sitemiz aracılığıyla yönlendirdiğimiz WhatsApp iletişim hattımız (0540 906 35 18) üzerinden alınan kişisel verilerinizin işlenmesine ilişkin esasları açıklamak amacıyla hazırlanmıştır."
+      ]
+    },
+    {
+      "title": "1. Veri Sorumlusu",
+      "content": [
+        "Kişisel verileriniz, veri sorumlusu sıfatıyla [Şirket/Marka Adı] tarafından işlenmektedir."
+      ]
+    },
+    {
+      "title": "2. İşlenen Kişisel Veriler",
+      "content": [
+        "WhatsApp hattımız (0540 906 35 18) üzerinden tarafınızca doğrudan paylaşılan aşağıdaki kişisel veriler işlenebilir:"
+      ],
+      "list": [
+        "Kimlik bilgileri (ad, soyad)",
+        "İletişim bilgileri (telefon numarası, e-posta adresi)",
+        "Mesaj içerikleri, görseller, videolar, ses kayıtları (kullanıcının paylaşması halinde)",
+        "Talep ve şikâyet bilgileri",
+        "Sipariş veya hizmete ilişkin tercihleriniz"
+      ]
+    },
+    {
+      "title": "3. Kişisel Verilerin İşlenme Amaçları",
+      "content": [
+        "Toplanan kişisel verileriniz aşağıdaki amaçlarla işlenmektedir:"
+      ],
+      "list": [
+        "Talep ve başvurularınızın değerlendirilmesi",
+        "Ürün ve/veya hizmet sunum süreçlerinin yürütülmesi",
+        "Müşteri destek süreçlerinin yönetimi",
+        "Satış sonrası destek ve memnuniyet süreçlerinin yürütülmesi",
+        "Yasal yükümlülüklerin yerine getirilmesi"
+      ]
+    },
+    {
+      "title": "4. Kişisel Verilerin Toplanma Yöntemi ve Hukuki Sebebi",
+      "content": [
+        "Kişisel verileriniz, yalnızca sizin WhatsApp hattımız (0540 906 35 18) üzerinden bizimle iletişime geçmeniz suretiyle elektronik ortamda toplanmakta olup, aşağıdaki hukuki sebeplere dayanılarak işlenmektedir:"
+      ],
+      "list": [
+        "Bir sözleşmenin kurulması veya ifasıyla doğrudan ilgili olması (KVKK m.5/2-c)",
+        "Hukuki yükümlülüklerin yerine getirilmesi (KVKK m.5/2-ç)",
+        "Bir hakkın tesisi, kullanılması veya korunması (KVKK m.5/2-e)",
+        "Açık rızanızın bulunması halinde pazarlama faaliyetleri (KVKK m.5/1)"
+      ]
+    },
+    {
+      "title": "5. Kişisel Verilerin Aktarılması",
+      "content": [
+        "Verileriniz, hizmet alınan WhatsApp uygulaması (Meta Inc.) tarafından yurt dışında bulunan sunucularda işlenebilir. Bu nedenle verileriniz açık rızanıza bağlı olarak yurt dışına aktarılabilir.",
+        "Ayrıca, gerekli görülmesi halinde kanunen yetkili kamu kurum ve kuruluşlarına aktarılabilir."
+      ]
+    },
+    {
+      "title": "6. İlgili Kişinin Hakları",
+      "content": [
+        "KVKK'nın 11. maddesi uyarınca, kişisel verilerinizle ilgili olarak:"
+      ],
+      "list": [
+        "Verilerinizin işlenip işlenmediğini öğrenme",
+        "İşlenmişse buna ilişkin bilgi talep etme",
+        "Amacına uygun kullanılıp kullanılmadığını öğrenme",
+        "Aktarıldığı 3. kişileri bilme",
+        "Eksik veya yanlış işlenmişse düzeltilmesini isteme",
+        "Silinmesini/yok edilmesini isteme",
+        "Düzeltme/silme taleplerinin 3. kişilere bildirilmesini isteme",
+        "Otomatik sistemlerle analiz sonucu aleyhinize bir durum çıkmasına itiraz etme",
+        "Zarara uğramanız halinde tazminat talep etme haklarına sahipsiniz."
+      ]
+    },
+    {
+      "title": "",
+      "content": [
+        "Bu haklarınızı kullanmak için bizimle info@ozumgida.com üzerinden veya doğrudan WhatsApp hattımız (0540 906 35 18) aracılığıyla iletişime geçebilirsiniz."
+      ]
+    }
+  ]
+}

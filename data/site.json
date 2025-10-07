@@ -1,0 +1,63 @@
+{
+  "pages": {
+    "index": {
+      "title": "Özüm'le | Anadolu'nun Geleneksel Lezzetleri",
+      "description": "Özüm'le, geleneksel Anadolu'nun lezzetlerini titizlikle seçerek modern sofralara taşıyan, nesilden nesile aktarılan tarifleri yaşatan bir aile markasıdır.",
+      "keywords": "özümle, erzincan tulum peyniri, tereyağ, peynir, erzincan organik gıda, doğal peynir, geleneksel erzincan ürünleri, anadolu lezzetleri"
+    },
+    "urunlerimiz": {
+      "title": "Özüm'le Ürünlerimiz | Erzincan Lezzetleri",
+      "description": "Erzincan Tulum Peyniri'nin eşsiz lezzetini keşfedin. Yüksek rakımlı yaylaların otlarıyla beslenen hayvanlardan elde edilen sütlerle, geleneksel yöntemlerle üretilen peynirlerimiz, sofralarınıza doğallık ve zenginlik katıyor.",
+      "keywords": "Erzincan Tulum Peyniri, geleneksel peynir, el yapımı peynir, doğal tulum peyniri, erzincan yöresel ürünleri"
+    },
+    "lezzetimizin-hikayesi": {
+      "title": "Lezzetimizin Hikayesi | Özüm'le Erzincan Lezzetleri",
+      "description": "Yüzyıllara dayanan Erzincan Tulum Peyniri geleneğini yaşatıyoruz. Dağların temiz havasında, ustalarımızın ellerinde olgunlaşan peynirlerimizin hikayesini keşfedin.",
+      "keywords": "Erzincan peynir geleneği, geleneksel tulum peyniri hikayesi, Anadolu peynir kültürü, yöresel gıda üretimi"
+    },
+    "hakkimizda": {
+      "title": "Hakkımızda | Özüm'le Ailesi",
+      "description": "Özüm'le ailesi olarak, dededen toruna aktarılan geleneksel yöntemlerle, Erzincan'ın bereketli topraklarından sofralarınıza lezzet taşıyoruz. Hikayemizi ve değerlerimizi keşfedin.",
+      "keywords": "Özümle gıda hikayesi, Erzincan aile işletmesi, geleneksel üretim yapan firma, yöresel gıda üreticisi, organik peynir üretimi"
+    },
+    "kvkk": {
+      "title": "Kişisel Verilerin Korunması | Özüm'le Gizlilik Politikası",
+      "description": "Özüm'le olarak kişisel verilerinizin güvenliği ve korunması en öncelikli taahhüdümüzdür. KVKK kapsamındaki politikalarımızı inceleyin.",
+      "keywords": "Kişisel veri koruması, KVKK uyumlu e-ticaret, müşteri bilgileri güvenliği, veri güvenliği standartları, gıda sektöründe veri koruması"
+    },
+    "satis-sozlesmesi": {
+      "title": "Mesafeli Satış Sözleşmesi | Özüm'le Yasal Bilgiler",
+      "description": "Alışverişiniz sırasında haklarınızı ve sorumluluklarımızı açıkça belirten mesafeli satış sözleşmemizi inceleyebilirsiniz.",
+      "keywords": "Gıda ürünleri satış sözleşmesi, yasal tüketici hakları, e-ticarette tüketici koruması, peynir alışverişi yasal şartlar"
+    },
+    "gizlilik-politikasi": {
+      "title": "Gizlilik Politikası | Özüm'le Yasal Bilgiler",
+      "description": "Özüm'le olarak gizliliğinize önem veriyoruz. Kişisel bilgilerinizin toplanması, kullanımı ve korunması ile ilgili tüm detayları içeren gizlilik politikamızı inceleyin.",
+      "keywords": "Gizlilik politikası, kişisel veri koruma, veri güvenliği, kullanıcı gizliliği, e-ticaret gizlilik politikası, müşteri bilgileri koruması, Özüm'le gizlilik"
+    },
+    "iletisim": {
+      "title": "Bize Ulaşın | Özüm'le İletişim Bilgileri",
+      "description": "Sorularınız, önerileriniz veya siparişleriniz için Özüm'le ailesine kolayca ulaşabilirsiniz. Size yardımcı olmaktan mutluluk duyarız.",
+      "keywords": "Özümle gıda iletişim kanalları, Erzincan peyniri sipariş hattı, müşteri hizmetleri iletişim, yöresel ürün sipariş iletişim"
+    },
+    "site-haritasi": {
+      "title": "Site Haritası | Özüm'le Web Sitesi Rehberi",
+      "description": "Özüm'le web sitemizdeki tüm sayfalara tek bir yerden hızlıca erişin. Aradığınız bilgilere kolayca ulaşmanız için tasarlanmış site haritamız.",
+      "keywords": "Özümle site haritası, Erzincan ürünleri web sitesi navigasyonu, yöresel gıda sitesi rehberi, peynir alışveriş sitesi yapısı"
+    },
+    "404": {
+      "title": "404 - Sayfa Bulunamadı | Özüm'le",
+      "description": "Aradığınız sayfa bulunamadı. Lütfen ana sayfamıza dönerek gezinmeye devam edin.",
+      "keywords": "sayfa bulunamadı, 404"
+    }
+  },
+  "headImgSloganStart": "Anadolu'nun geleneksel tatlarını",
+  "headImgSloganEnd": "modern dokunuşlarla sofralarınıza getiriyoruz.",
+  "footImgSloganStart": "Erzincan topraklarının bereketini",
+  "footImgSloganEnd": "çağdaş mutfak anlayışıyla yaşatıyoruz.",
+  "headSloganBtn": "Ürünleri İncele",
+  "headSloganLnk": "/urunlerimiz.html",
+  "footSloganBtn": "Lezetimizin Hikayesi",
+  "footSloganLnk": "/lezzetimizin-hikayesi.html",
+  "basketWarning": "Ürünlerinizi sepete ekledikten sonra,<br/>'WhatsApp'tan Siparişini İlet' butonuna tıklayarak<br/>siparişinizi ve kargo bilgilerinizi tarafımıza hızlıca iletebilir,<br/>alışverişinizi kolayca tamamlayabilirsiniz."
+}

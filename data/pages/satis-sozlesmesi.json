@@ -1,0 +1,77 @@
+{
+  "parts": [
+    {
+      "title": "1. Taraflar",
+      "content": [
+        "Satıcı:"
+      ],
+      "list": [
+        "Unvan: Onur Yiğit-Özüm Gıda Ticaret ve Sanayi",
+        "Adres: Mimar Sinan Mahallesi Üsküdar Caddesi No:48 YEDPA Ticaret Merkezi 1 F Ataşehir / İstanbul",
+        "Telefon: 0540 906 35 18",
+        "E-posta: info@ozumgida.com"
+      ]
+    },
+    {
+      "title": "",
+      "content": [
+        "Alıcı: www.ozumgida.com internet sitesi üzerinden sepetine eklediği ürün/ürünlerin tüm vergi ve ücretlendirmeleri görerek, siparişini \"WhatsApp ile Siparişi Tamamla\" butonuyla ileten tüketiciler"
+      ]
+    },
+    {
+      "title": "2. Sözleşmenin Konusu",
+      "content": [
+        "İşbu sözleşme, Alıcı'nın Satıcı'ya ait www.ozumgida.com internet sitesi üzerinden, sepetine eklediği ürün/ürünlerin tüm vergi ve ücretlendirmeleri görerek, siparişini \"WhatsApp ile Siparişi Tamamla\" butonuyla iletmesi suretiyle gerçekleştirdiği satış ve teslimi ile ilgili olarak 6502 sayılı Tüketicinin Korunması Hakkında Kanun ve ilgili Yönetmelik uyarınca tarafların hak ve yükümlülüklerini düzenler."
+      ]
+    },
+    {
+      "title": "3. Ürün Bilgileri",
+      "content": [
+        "Ürün(ler): Sipariş sırasında web sitesinde belirtilen nitelikler ve satış fiyatıyla listelenen ürünlerdir.",
+        "Adet, fiyat, KDV, kargo bedeli vb. tüm ücret detayları, sipariş onayı öncesinde Alıcı tarafından görüntülenmiş ve onaylanmıştır."
+      ]
+    },
+    {
+      "title": "4. Sözleşmenin Kurulması ve Siparişin Tamamlanması",
+      "content": [
+        "Alıcı, sepetine ürünleri ekledikten sonra siparişi web sitesinde yer alan \"WhatsApp ile Siparişi Tamamla\" butonuna tıklayarak Satıcı ile WhatsApp üzerinden iletişime geçer. Sipariş bu iletişim kanalında teyit edilerek tamamlanır. Bu işlem öncesinde tüm ürün bilgileri ve ücretlendirme Alıcı tarafından görülmüş ve onaylanmıştır."
+      ]
+    },
+    {
+      "title": "5. Ödeme ve Teslimat",
+      "content": [
+        "Ödeme şekli, WhatsApp üzerinden sipariş onayı esnasında kararlaştırılır (örneğin havale/EFT, link ile ödeme vb) Teslimat, Alıcı'nın belirttiği adrese yapılır. Kargo ücreti web sitesinde belirtilmiştir. Teslimat süresi ve detayları whatsapp hattı üzerinden paylaşılacaktır."
+      ]
+    },
+    {
+      "title": "6. Cayma Hakkı",
+      "content": [
+        "Tüketici, mesafeli satışlarda genel olarak 14 gün içinde cayma hakkına sahiptir. Ancak, çabuk bozulabilen veya son kullama tarihi geçebilecek ürünlerde cayma hakkı kullanılamaz.",
+        "Bu nedenle, satın alınan süt ürünleri için cayma hakkı geçerli değildir."
+      ]
+    },
+    {
+      "title": "7. Cayma Hakkının Kullanılamayacağı Haller",
+      "content": [
+        "Aşağıdaki ürünlerde cayma hakkı kullanılamaz:"
+      ],
+      "list": [
+        "Tüketicinin istekleri veya kişisel ihtiyaçları doğrultusunda hazırlanan ürünler,",
+        "Çabuk bozulabilen veya son kullanma tarihi geçebilecek ürünler,",
+        "Ambalajı açılmış, hijyen açısından iade edilemeyecek ürünler."
+      ]
+    },
+    {
+      "title": "8. Uyuşmazlık Durumu",
+      "content": [
+        "İşbu sözleşme kapsamında çıkabilecek uyuşmazlıklarda, Alıcı'nın yerleşim yerindeki Tüketici Hakem Heyetleri veya Tüketici Mahkemeleri yetkilidir."
+      ]
+    },
+    {
+      "title": "9. Yürürlük",
+      "content": [
+        "Alıcı, web sitesi üzerinden satıcının Whatsapp işletme hesabına aktarılarak sipariş verdiğinde işbu sözleşmenin tüm hükümlerini okuduğunu, anladığını ve kabul ettiğini beyan eder. Sözleşme, satıcının Whatsapp İşletme Hattı üzerinden onaylanmakla birlikte yürürlüğe girer."
+      ]
+    }
+  ]
+}

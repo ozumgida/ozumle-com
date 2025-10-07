@@ -1,0 +1,89 @@
+{
+  "parts": [
+    {
+      "title": "Gizlilik Politikası",
+      "content": [
+        "Özüm’le olarak, kullanıcılarımızın gizliliğini korumak ve kişisel verilerini güvenli bir şekilde işlemek bizim için son derece önemlidir.",
+        "Bu gizlilik politikası, web sitemizi kullandığınızda ve kurumsal WhatsApp hattımız üzerinden bizimle iletişime geçtiğinizde kişisel verilerinizi nasıl topladığımızı, kullandığımızı ve koruduğumuzu açıklamaktadır."
+      ]
+    },
+    {
+      "title": "Toplanan Bilgiler",
+      "content": [
+        "Web sitemiz üzerinden doğrudan kişisel bilgi toplamıyoruz.",
+        "Ancak, kullanıcılarımızın kurumsal WhatsApp hattımız üzerinden bizimle iletişime geçmesi durumunda aşağıdaki kişisel verileri toplayabiliriz"
+      ],
+      "list": [
+        "Adınız ve soyadınız",
+        "Telefon numaranız",
+        "WhatsApp üzerinden paylaştığınız diğer bilgiler (metin mesajları, görseller, belgeler vb.)"
+      ]
+    },
+    {
+      "title": "Kişisel Verilerin Kullanım Amaçları",
+      "content": [
+        "Kurumsal WhatsApp hattımız üzerinden toplanan kişisel verileri şu amaçlarla kullanıyoruz:"
+      ],
+      "list": [
+        "Kullanıcı taleplerini ve sorularını yanıtlamak",
+        "Hizmetlerimizi sağlamak ve kullanıcı memnuniyetini artırmak",
+        "Yasal yükümlülüklere uymak"
+      ]
+    },
+    {
+      "title": "Kişisel Verilerin Güvenliği",
+      "content": [
+        "Kurumsal WhatsApp hattımız üzerinden elde edilen kişisel veriler, güvenli bir şekilde korunmakta ve yalnızca yetkili çalışanlarımız tarafından erişilebilmektedir.",
+        "WhatsApp’ın uçtan uca şifreleme teknolojisi sayesinde mesajlarınız üçüncü şahıslar tarafından görüntülenemez."
+      ]
+    },
+    {
+      "title": "Kişisel Verilerin Paylaşılması",
+      "content": [
+        "WhatsApp üzerinden elde edilen kişisel verilerinizi üçüncü şahıslarla yalnızca şu durumlarda paylaşırız:"
+      ],
+      "list": [
+        "Yasal zorunluluklar gereği",
+        "Kullanıcı onayı ile"
+      ]
+    },
+    {
+      "title": "Kullanıcı Hakları",
+      "content": [
+        "Kullanıcılar olarak aşağıdaki haklara sahipsiniz:"
+      ],
+      "list": [
+        "Kişisel verilerinize erişim talep etme",
+        "Yanlış veya eksik verilerin düzeltilmesini talep etme",
+        "Kişisel verilerinizin silinmesini isteme (yasal yükümlülükler hariç)",
+        "Verilerinizin işlenmesini kısıtlama"
+      ]
+    },
+    {
+      "title": "Gizlilik Politikasındaki Değişiklikler",
+      "content": [
+        "Bu gizlilik politikası, yasal ve hizmetlerimizdeki değişikliklere bağlı olarak zaman zaman güncellenebilir.",
+        "Politikanın son güncellenme tarihini bu sayfada görebilirsiniz."
+      ]
+    },
+    {
+      "title": "İletişim Bilgileri",
+      "content": [
+        "Gizlilik politikamız hakkında sorularınız veya talepleriniz varsa, lütfen bizimle iletişime geçin:"
+      ],
+      "list": [
+        "WhatsApp: 0540 906 35 18",
+        "E-posta: info@ozumgida.com",
+        "Telefon: 0540 906 35 18",
+        "Adres: Mimar Sinan Mah. Üsküdar Cad. YEDPA Ticaret Merkezi F 1 Cad. No:48 Ataşehir İstanbul"
+      ]
+    },
+    {
+      "title": "Sonuç",
+      "content": [
+        "Bu gizlilik politikası ile kişisel verilerinizin nasıl işlendiğini ve korunduğunu şeffaf bir şekilde sizlere sunuyoruz.",
+        "Web sitemizi ve kurumsal WhatsApp hattımızı kullanarak bu politikayı kabul etmiş sayılırsınız."
+      ]
+    }
+  ]
+}
