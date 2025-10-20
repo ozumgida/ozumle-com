@@ -17,7 +17,7 @@ function doIletisim($m) {
   $d.className = "contact";
   $d.append(
     img("/static/img/address.png", "adres"), address(COMPANY.address), br(),
-    img("/static/img/map.png", "harita"), lnk("https://maps.app.goo.gl/4mFyGQx7jfX2S2vh7", "Haritada Gör", true), br(),
+    img("/static/img/map.png", "harita"), lnk("https://maps.app.goo.gl/hVNeyU35MEWc8sGp8", "Haritada Gör", true), br(),
     img("/static/img/phone.png", "telefon"), lnk("tel:" + COMPANY.phone.replace(/ /g, ""), COMPANY.phone), br(),
     img("/static/img/email.png", "e-posta"), lnk("mailto:" + COMPANY.email, COMPANY.email));
   a.append($d);
