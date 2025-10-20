@@ -47,7 +47,7 @@ html {
 body {
   text-align: center;
   line-height: 1.5;
-  font-family: sans;
+  font-family: sans-serif;
   background: linear-gradient(to bottom, #4CAF50, #3E8E41);
   color: #333;
   height: 100%;
