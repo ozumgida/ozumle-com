@@ -311,9 +311,9 @@ function cPrdAdd(sel, p) {
 }
 
 function calcShip(w) {
-  if (w <= 5) { return 167; }
-  else if (w <= 10) { return 195; }
-  else if (w < 15) { return 249; }
+  if (w <= 5) { return 185; }
+  else if (w <= 10) { return 220; }
+  else if (w < 15) { return 280; }
   else { return 0; }
 }
 
