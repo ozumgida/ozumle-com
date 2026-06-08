@@ -1,0 +1,23 @@
+{
+  "campaigns": [
+    {
+      "type": "free_shipping",
+      "active": true,
+      "img": "15kg-uzeri-kargo-bedava.png",
+      "addProducts": [
+          { "id": "p1000", "qty": 6 },
+          { "id": "p500",  "qty": 6 },
+          { "id": "yt900", "qty": 4 },
+          { "id": "y500",  "qty": 5 }
+        ],
+      "conditions": [
+        {
+          "minWeight": 15,
+          "hintTemplate": "{remaining} kg daha ekle, kargo bedava!"
+        }
+      ],
+      "label": "15 kg ve üzeri siparişlerde kargo bedava!",
+      "messageLine": "Bedava Kargo Kampanyası"
+    }
+  ]
+}

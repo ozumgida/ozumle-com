@@ -1,0 +1,8 @@
+{
+  "title": "Personel | Özüm'le",
+  "description": "",
+  "keywords": "",
+  "showOnHeaderMenu": false,
+  "priority": 0.1,
+  "partials": ["staff-form"]
+}

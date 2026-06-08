@@ -1,0 +1,51 @@
+{
+  "id": "p1000",
+  "name": "Erzincan Tulum Peyniri 1 kg",
+  "url": "erzincan-tulum-peyniri-1000gr",
+  "images": ["erzincan-tulum-peyniri-1000gr.webp"],
+  "price": 630,
+  "weight": { "value": 1000, "unit": "gr" },
+  "shortDesc": "Bin yıllık bir geleneğin modern sofralarımıza taşıdığı, keçi derisi içinde olgunlaştırılmış, aromatik ve kuvvetli karaktere sahip otantik bir lezzet.",
+  "metaDesc": "Munzur Dağları'nın endemik bitkileriyle beslenen hayvanların sütünden üretilen, tam 1 kilogramlık gerçek Erzincan tulumu deneyimi.",
+  "keywords": "Erzincan tulum peyniri, kilo tulum peyniri, Slow Food, keçi derisi tulumu, 1 kg peynir, Anadolu peynir kültürü, zanaatkâr ürün, Özüm'le gıda, gurme peynir, doğal olgunlaştırılmış",
+  "category": { "name": "Süt Ürünleri", "url": "sut-urunleri" },
+  "longDesc": [
+    "Bin yıllık bir geçmişe sahip Erzincan tulumu, Anadolu'nun kadim peynir kültürünün en değerli örneklerinden biridir.",
+    "Her kilogramı için ortalama 6-7 litre süt kullanılır, bu da onun yoğun lezzet profilini açıklar.",
+    "Ustalar tarafından elle yoğrulan peynir hamuru, keçi derisinden yapılmış tulumlarda olgunlaştırılır.",
+    "Olgunlaşma süresi mevsime göre değişir; kış peyniri daha uzun sürede olgunlaşır ve daha kuvvetli bir karaktere sahiptir.",
+    "Farklı rakımlardaki yaylalarda üretilen tulumlar, kendine özgü etkiler gösterir ve tadım uzmanları tarafından ayırt edilebilir.",
+    "1 kilogramlık format, misafir ağırlamak ve uzun süreli tüketim için idealdir; açıldıktan sonra haftalarca tazeliğini korur.",
+    "Uluslararası Slow Food hareketi tarafından koruma altına alınan bu peynir, nesiller boyu aktarılan bir zanaat ürünüdür.",
+    "Peynirle beraber servis edilecek kuru meyveler, ceviz ve ballı karışımlar, tulum peynirinin komplike aromalarını dengeler.",
+    "Geleneksel kahvaltı sofralarının yanı sıra, gurme sandviçlerde, makarnalarda ve özel risotto tariflerinde kullanılabilir.",
+    "Ayrıca bu ürünü alarak, yöresel üreticilerin sürdürülebilir ekonomisine katkıda bulunarak, kültürel mirasın yaşatılmasına destek olursunuz."
+  ],
+  "otherDesc": [
+    { "name": "İçindekiler", "value": "Süt, peynir mayası, tuz", "type": "info" },
+    { "name": "Saklama Koşulları", "value": "4°C'nin altında buzdolabında saklayınız", "type": "info" },
+    { "name": "Son Kullanma Tarihi", "value": "Açıldıktan sonra 30 gün içinde tüketiniz", "type": "info" },
+    { "name": "Süt Tipi", "value": "Koyun, keçi ve inek sütü karışımından üretilmiştir", "type": "spec" },
+    { "name": "Yağ Oranı (Kuru Madde)", "value": "En az %45", "type": "spec" },
+    { "name": "Tuz Oranı (Kuru Madde)", "value": "En fazla %5", "type": "spec" },
+    { "name": "Olgunlaşma Süresi", "value": "120 gün", "type": "spec" },
+    { "name": "Alerjen", "value": "Laktoz içerir", "type": "spec" },
+    { "name": "Kalori (100g)", "value": "475 kcal", "type": "nutrition" },
+    { "name": "Yağ (100g)", "value": "36,5 g", "type": "nutrition" },
+    { "name": "Protein (100g)", "value": "25 g", "type": "nutrition" },
+    { "name": "Karbonhidrat (100g)", "value": "7,5 g", "type": "nutrition" },
+    { "name": "Kalsiyum (100g)", "value": "1050 mg", "type": "nutrition" }
+  ],
+  "aggregateRating": {
+    "ratingValue": "5",
+    "reviewCount": "4",
+    "bestRating": "5",
+    "worstRating": "1"
+  },
+  "review": {
+    "ratingValue": "5",
+    "author": "Fatma Y.",
+    "date": "2026-01-08",
+    "body": "Artık hep 1 kg'lık paket alıyoruz, tüm aile çok seviyor. Kahvaltıda ve börek içinde harika. Gerçek Erzincan tulumu arıyorsanız, doğru adres burası."
+  }
+}

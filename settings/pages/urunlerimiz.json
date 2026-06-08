@@ -1,0 +1,9 @@
+{
+  "title": "Özüm'le Ürünlerimiz | Erzincan Lezzetleri",
+  "description": "Erzincan Tulum Peyniri'nin eşsiz lezzetini keşfedin. Yüksek rakımlı yaylaların otlarıyla beslenen hayvanlardan elde edilen sütlerle, geleneksel yöntemlerle üretilen peynirlerimiz, sofralarınıza doğallık ve zenginlik katıyor.",
+  "keywords": "Erzincan Tulum Peyniri, geleneksel peynir, el yapımı peynir, doğal tulum peyniri, erzincan yöresel ürünleri",
+  "showOnHeaderMenu": true,
+  "isAllProductsPage": true,
+  "priority": 0.7,
+  "partials": ["article-header", "page-image", "parts", "product-cards", "article-footer"]
+}

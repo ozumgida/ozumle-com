@@ -1,0 +1,109 @@
+let CACHE = "ozumle-tr-v20260608073433";
+let CORE = ["/","/site.css","/site.js","/logo.png","/favicon.png","/favicon.ico"];
+let PRODUCTS = ["/products/erzincan-tulum-peyniri-1000gr.html","/products/erzincan-tulum-peyniri-500gr.html","/products/tuzlu-tereyagi-900gr.html","/products/tuzsuz-tereyagi-500gr.html","/img/products/erzincan-tulum-peyniri-1000gr-k.webp","/img/products/erzincan-tulum-peyniri-1000gr.webp","/img/products/erzincan-tulum-peyniri-500gr-k.webp","/img/products/erzincan-tulum-peyniri-500gr.webp","/img/products/tuzlu-tereyagi-900gr-k.webp","/img/products/tuzlu-tereyagi-900gr.webp","/img/products/tuzsuz-tereyagi-500gr-k.webp","/img/products/tuzsuz-tereyagi-500gr.webp"];
+let PAGES = ["/pages/gizlilik-politikasi.html","/pages/hakkimizda.html","/pages/iletisim.html","/pages/kvkk.html","/pages/lezzetimizin-hikayesi.html","/pages/satis-sozlesmesi.html","/pages/site-haritasi.html","/pages/urunlerimiz.html","/index.html","/404.html","/img/address.png","/img/basket.png","/img/close.png","/img/delete.png","/img/email.png","/img/facebook.png","/img/instagram.png","/img/linkedin.png","/img/map.png","/img/menu.png","/img/minus.png","/img/phone.png","/img/plus.png","/img/whatsapp.png","/img/youtube.png","/img/pages/404-k.webp","/img/pages/404.webp","/img/pages/gizlilik-politikasi-k.webp","/img/pages/gizlilik-politikasi.webp","/img/pages/hakkimizda-k.webp","/img/pages/hakkimizda.webp","/img/pages/hero-footer-k.webp","/img/pages/hero-footer.webp","/img/pages/hero-header-k.webp","/img/pages/hero-header.webp","/img/pages/iletisim-k.webp","/img/pages/iletisim.webp","/img/pages/kvkk-k.webp","/img/pages/kvkk.webp","/img/pages/lezzetimizin-hikayesi-k.webp","/img/pages/lezzetimizin-hikayesi.webp","/img/pages/satis-sozlesmesi-k.webp","/img/pages/satis-sozlesmesi.webp","/img/pages/site-haritasi-k.webp","/img/pages/site-haritasi.webp","/img/campaign/15kg-uzeri-kargo-bedava.png"];
+
+let PREFETCH_SENTINEL = "/__prefetch_done__";
+let CORE_TIMEOUT_MS = 2500;
+
+self.addEventListener("install", function(e) {
+  e.waitUntil(
+    caches.open(CACHE).then(function(c) { return c.addAll(CORE); })
+      .then(function() { return self.skipWaiting(); })
+  );
+});
+
+self.addEventListener("activate", function(e) {
+  e.waitUntil(
+    caches.keys().then(function(keys) {
+      return Promise.all(
+        keys.filter(function(k) { return k !== CACHE; })
+            .map(function(k) { return caches.delete(k); })
+      );
+    })
+  );
+  self.clients.claim();
+});
+
+self.addEventListener("message", function(e) {
+  if (e.data === "cache-all") {
+    e.waitUntil(
+      caches.open(CACHE).then(function(c) {
+        return c.match(PREFETCH_SENTINEL).then(function(done) {
+          if (done) { return; }
+          return c.addAll(PRODUCTS)
+            .catch(function() {})
+            .then(function() { return c.addAll(PAGES); })
+            .catch(function() {})
+            .then(function() {
+              return c.put(PREFETCH_SENTINEL, new Response("", { status: 200 }));
+            });
+        });
+      })
+    );
+  }
+});
+
+function shouldCache(req, res) {
+  if (!res || !res.ok) return false;
+  if (res.type === "opaque" || res.type === "opaqueredirect") return false;
+  if (req.method !== "GET") return false;
+  let url = new URL(req.url);
+  if (url.origin !== self.location.origin) return false;
+  return true;
+}
+
+function fetchWithTimeout(req, ms) {
+  return new Promise(function(resolve, reject) {
+    let timedOut = false;
+    let timer = setTimeout(function() { timedOut = true; reject(new Error("timeout")); }, ms);
+    fetch(req).then(function(res) {
+      clearTimeout(timer);
+      if (!timedOut) resolve(res);
+    }, function(err) {
+      clearTimeout(timer);
+      if (!timedOut) reject(err);
+    });
+  });
+}
+
+self.addEventListener("fetch", function(e) {
+  if (e.request.method !== "GET") return;
+
+  let url = new URL(e.request.url);
+  if (url.origin !== self.location.origin) return;
+
+  let isCore = CORE.indexOf(url.pathname) !== -1;
+
+  if (isCore) {
+    e.respondWith(
+      fetchWithTimeout(e.request, CORE_TIMEOUT_MS).then(function(res) {
+        if (shouldCache(e.request, res)) {
+          let clone = res.clone();
+          caches.open(CACHE).then(function(c) { c.put(e.request, clone); });
+        }
+        return res;
+      }).catch(function() {
+        return caches.match(e.request).then(function(cached) {
+          return cached || fetch(e.request);
+        });
+      })
+    );
+    return;
+  }
+
+  e.respondWith(
+    caches.match(e.request).then(function(cached) {
+      let fetched = fetch(e.request).then(function(res) {
+        if (shouldCache(e.request, res)) {
+          let clone = res.clone();
+          caches.open(CACHE).then(function(c) { c.put(e.request, clone); });
+        }
+        return res;
+      }).catch(function() {
+        return cached;
+      });
+      return cached || fetched;
+    })
+  );
+});

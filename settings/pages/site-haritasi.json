@@ -1,0 +1,9 @@
+{
+  "title": "Site Haritası | Özüm'le Web Sitesi Rehberi",
+  "description": "Özüm'le web sitemizdeki tüm sayfalara tek bir yerden hızlıca erişin. Aradığınız bilgilere kolayca ulaşmanız için tasarlanmış site haritamız.",
+  "keywords": "Özümle site haritası, Erzincan ürünleri web sitesi navigasyonu, yöresel gıda sitesi rehberi, peynir alışveriş sitesi yapısı",
+  "showOnFooter": true,
+  "isSiteMap": true,
+  "priority": 0.4,
+  "partials": ["article-header", "page-image", "parts", "sitemap-list", "article-footer"]
+}

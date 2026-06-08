@@ -1,0 +1,280 @@
+ul.prd {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 1.5rem;
+  margin: 4rem;
+}
+
+ul.prd li {
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+  background: #fff;
+  border-radius: 12px;
+  box-shadow: 0 2px 8px rgba(0,0,0,.08);
+  text-align:center;
+}
+
+ul.prd a {
+  display: block;
+  color: inherit;
+  text-decoration: none;
+}
+
+ul.prd a img {
+  display: block;
+  width: 100%;
+  aspect-ratio: 4/3;
+  object-fit: cover;
+  margin-top: -1rem;
+}
+
+ul.prd h3 {
+  margin: .75rem 1rem .25rem;
+  font-size: 1.05rem;
+}
+
+ul.prd b {
+  display: block;
+  margin: .25rem 1rem;
+  font-size: 1.15rem;
+  color: var(--c-primary);
+}
+
+ul.prd p {
+  margin: .25rem 1rem .75rem;
+  font-size: .88rem;
+  line-height: 1.4;
+  color: #666;
+}
+
+ul.prd button {
+  width: fit-content;
+  margin: auto auto 1rem;
+  padding: .5rem 1.5rem;
+  line-height: 28px;
+  background: var(--c-primary);
+  border-radius: 8px;
+  font-size: 1.05rem;
+  color: #fff;
+}
+
+.pdt {
+  max-width: 888px;
+  margin: 0 auto;
+  padding: 1.5rem;
+  background: #fff;
+  border-radius: 1rem;
+}
+
+.pdt > img {
+  display: block;
+  width: 100%;
+  max-width: 480px;
+  margin: 0 auto 1rem;
+  border-radius: 12px;
+}
+
+.pdt > h1 {
+  margin: 0 0 .5rem;
+  font-size: 1.4rem;
+}
+
+.pdt > b {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: .4rem;
+  margin: 0 0 .75rem;
+  font-size: 1.3rem;
+  color: var(--c-primary);
+}
+
+.pdt > b i {
+  font-size: .85rem;
+  font-style: normal;
+}
+
+.pdt > button {
+  display: block;
+  margin: 0 auto;
+  padding: .7rem 1.5rem;
+  background: var(--c-primary);
+  border-radius: 8px;
+  font-size: 1rem;
+  color: #fff;
+}
+
+.tabs {
+  margin-top: 1.5rem;
+  text-align: left;
+}
+
+.tabs input[type="radio"] {
+  display: none;
+}
+
+.tab-nav {
+  display: flex;
+}
+
+.tab-nav label {
+  flex: 1;
+  padding: 0.8rem;
+  border-bottom: 2px solid #ddd;
+  border-radius: 0.5rem 0.5rem 0 0;
+  font-size: 0.95rem;
+  font-weight: bold;
+  cursor: pointer;
+  color:#777;
+}
+
+#tab-desc:checked ~ .tab-nav label[for="tab-desc"],
+#tab-specs:checked ~ .tab-nav label[for="tab-specs"] {
+  background: #fff;
+  border-bottom-color: var(--c-primary);
+  color: var(--c-primary);
+}
+
+.tab-desc,
+.tab-specs {
+  display: none;
+  padding: 1rem 0;
+}
+
+#tab-desc:checked ~ .tab-desc {
+  display: block;
+}
+
+#tab-specs:checked ~ .tab-specs {
+  display: block;
+}
+
+.tab-desc p {
+  padding-block: 0.4rem;
+  font-size: 1rem;
+  line-height: 1.6;
+}
+
+.tab-specs table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.tab-specs th,
+.tab-specs td {
+  padding: 0.6rem 0.8rem;
+  border-bottom: 1px solid #eee;
+  font-size: 0.95rem;
+  text-align: left;
+}
+
+.tab-specs th {
+  width: 50%;
+  color: #555;
+  font-weight: bold;
+}
+
+@media (min-width: 1024px) {
+  ul.prd {
+    grid-template-columns: repeat(4, 1fr);
+  }
+}
+
+@media (max-width: 600px) {
+  ul.prd {
+    grid-template-columns: 1fr;
+    margin: 2rem 0;
+  }
+  .pdt {
+    padding: 1rem;
+  }
+  .pdt > h1 {
+    font-size: clamp(0.75rem, 5vw, 1.4rem);
+    white-space: nowrap;
+  }
+}
+
+/* --- Filter Chip UI --- */
+.filter-ui {
+  margin: 1.5rem 4rem 0;
+}
+
+.filter-cats,
+.filter-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: .5rem;
+  margin-bottom: .75rem;
+}
+
+.chip {
+  padding: .35rem .9rem;
+  border: 1.5px solid var(--c-primary);
+  border-radius: 2rem;
+  background: #fff;
+  color: var(--c-primary);
+  font-size: .88rem;
+  cursor: pointer;
+}
+
+.chip.active {
+  background: var(--c-primary);
+  color: #fff;
+}
+
+/* --- Category Groups --- */
+.cat-group {
+  margin-top: 2rem;
+}
+
+.cat-group > h3 {
+  margin: 0 4rem .75rem;
+  font-size: 1.1rem;
+  color: #444;
+}
+
+details.cat-group {
+  margin-top: 2rem;
+}
+
+details.cat-group > summary {
+  margin: 0 4rem .75rem;
+  font-size: 1.1rem;
+  font-weight: bold;
+  color: #444;
+  cursor: pointer;
+}
+
+/* --- Product meta tags (category/tag links on product detail) --- */
+.product-meta-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: .4rem;
+  justify-content: center;
+  margin: .25rem 0 .75rem;
+}
+
+.product-meta-tags a {
+  padding: .2rem .7rem;
+  border: 1px solid #ddd;
+  border-radius: 1rem;
+  font-size: .82rem;
+  color: #666;
+  text-decoration: none;
+}
+
+.product-meta-tags a:hover {
+  border-color: var(--c-primary);
+  color: var(--c-primary);
+}
+
+@media (max-width: 600px) {
+  .filter-ui {
+    margin: 1rem 0 0;
+  }
+  .cat-group > h3,
+  details.cat-group > summary {
+    margin: 0 0 .75rem;
+  }
+}

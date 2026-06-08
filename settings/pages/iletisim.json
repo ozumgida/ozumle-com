@@ -1,0 +1,9 @@
+{
+  "title": "Bize Ulaşın | Özüm'le İletişim Bilgileri",
+  "description": "Sorularınız, önerileriniz veya siparişleriniz için Özüm'le ailesine kolayca ulaşabilirsiniz. Size yardımcı olmaktan mutluluk duyarız.",
+  "keywords": "Özümle gıda iletişim kanalları, Erzincan peyniri sipariş hattı, müşteri hizmetleri iletişim, yöresel ürün sipariş iletişim",
+  "showOnHeaderMenu": true,
+  "isContactPage": true,
+  "priority": 0.7,
+  "partials": ["article-header", "page-image", "parts", "contact", "article-footer"]
+}

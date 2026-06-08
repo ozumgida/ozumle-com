@@ -1,0 +1,50 @@
+{
+  "id": "p500",
+  "name": "Erzincan Tulum Peyniri 500 gr",
+  "url": "erzincan-tulum-peyniri-500gr",
+  "images": ["erzincan-tulum-peyniri-500gr.webp"],
+  "price": 315,
+  "weight": { "value": 500, "unit": "gr" },
+  "shortDesc": "Erzincan'ın eşsiz tulum peyniri, yarım kiloluk paketi ile daha pratik. Doğal ve yoğun lezzetiyle sofralarınıza farklılık katın.",
+  "metaDesc": "Kendine has keskin aroması ve kremsi dokusuyla, asırlık bir geleneğin ürünü olan Erzincan tulum peyniri, coğrafi işaretli özel bir lezzet.",
+  "keywords": "Erzincan tulum peyniri, coğrafi işaretli peynir, 500 gr tulum peyniri, geleneksel peynir, Munzur Dağları peyniri, organik peynir, doğal fermantasyon, Özüm'le gıda, Anadolu lezzeti, probiyotik peynir",
+  "category": { "name": "Süt Ürünleri", "url": "sut-urunleri" },
+  "longDesc": [
+    "Erzincan tulumu, Munzur Dağları eteklerindeki meralarda beslenen hayvanların taze sütünden yapılır ve coğrafi işaret tesciliyle koruma altındadır.",
+    "Peynirin karakteristik aroması, deri tulum içinde 3-6 ay boyunca olgunlaşması ve doğal mağaralarda muhafaza edilmesi sayesinde gelişir.",
+    "Her lokma, kremsi yapısı ve hafif acımsı ardıl tadıyla damakta unutulmaz bir deneyim bırakır.",
+    "Mevsimsel çeşitlilik, her parti peynire hafif farklılıklar kazandırır, bu da onu zanaatkâr bir ürün yapar.",
+    "Yöre halkının yaşam biçimini yansıtan bu peynir, son yıllarda dünyaca ünlü şeflerin de dikkatini çekmeye başlamıştır.",
+    "Protein, kalsiyum ve sağlıklı yağ asitleri açısından zengin bileşimi ile sadece lezzetli değil, besleyicidir de.",
+    "En iyi şekilde tüketebilmek için oda sıcaklığında servise getirilmeli ve kızarmış ekmek, taze meyveler veya bal ile eşleştirilmelidir.",
+    "Peynirin olgunlaşması sırasında gelişen mikroflora, sindirimi destekleyen probiyotik özellikler taşır.",
+    "500 gramlık paket, sofralık tüketim ve özel tarifler için ideal bir seçenektir."
+  ],
+  "otherDesc": [
+    { "name": "İçindekiler", "value": "Süt, peynir mayası, tuz", "type": "info" },
+    { "name": "Saklama Koşulları", "value": "4°C'nin altında buzdolabında saklayınız", "type": "info" },
+    { "name": "Son Kullanma Tarihi", "value": "Açıldıktan sonra 30 gün içinde tüketiniz", "type": "info" },
+    { "name": "Süt Tipi", "value": "Koyun, keçi ve inek sütü karışımından üretilmiştir", "type": "spec" },
+    { "name": "Yağ Oranı (Kuru Madde)", "value": "En az %45", "type": "spec" },
+    { "name": "Tuz Oranı (Kuru Madde)", "value": "En fazla %5", "type": "spec" },
+    { "name": "Olgunlaşma Süresi", "value": "120 gün", "type": "spec" },
+    { "name": "Alerjen", "value": "Laktoz içerir", "type": "spec" },
+    { "name": "Kalori (100g)", "value": "475 kcal", "type": "nutrition" },
+    { "name": "Yağ (100g)", "value": "36,5 g", "type": "nutrition" },
+    { "name": "Protein (100g)", "value": "25 g", "type": "nutrition" },
+    { "name": "Karbonhidrat (100g)", "value": "7,5 g", "type": "nutrition" },
+    { "name": "Kalsiyum (100g)", "value": "1050 mg", "type": "nutrition" }
+  ],
+  "aggregateRating": {
+    "ratingValue": "5",
+    "reviewCount": "3",
+    "bestRating": "5",
+    "worstRating": "1"
+  },
+  "review": {
+    "ratingValue": "5",
+    "author": "Özge A.",
+    "date": "2025-12-11",
+    "body": "Özüm'le tulum peyniri masamızın vazgeçilmezi oldu. Gerçek Erzincan tadını arayanlar için kesinlikle tavsiye ederim. Kocam da çok sevdi — kahvaltıda çok pratik. Lezzeti damakta uzun süre kaldı..."
+  }
+}

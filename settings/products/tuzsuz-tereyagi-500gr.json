@@ -1,0 +1,49 @@
+{
+  "id": "y500",
+  "name": "Tuzsuz Tereyağı 500 gr",
+  "url": "tuzsuz-tereyagi-500gr",
+  "images": ["tuzsuz-tereyagi-500gr.webp"],
+  "price": 320,
+  "weight": { "value": 500, "unit": "gr" },
+  "shortDesc": "Yemeklerinize ve hamur işlerinize uyum sağlayan Özüm'le Pastörize Tuzsuz Tereyağımız, dengeli lezzetiyle ideal bir tercihtir.",
+  "metaDesc": "Hiçbir katkı maddesi içermeyen, Fransız usulü yağlı hamur işlerinden Türk baklavasına kadar tüm özel tariflerinizi taçlandıracak premium tuzsuz tereyağı.",
+  "keywords": "Tuzsuz tereyağı, pastacılık tereyağı, baklava tereyağı, patisserie tereyağı, kremsi tereyağı, saf tereyağı, 500 gr tereyağı, Özüm'le tereyağı, doğal krema, premium tereyağı",
+  "category": { "name": "Süt Ürünleri", "url": "sut-urunleri" },
+  "longDesc": [
+    "Özenle seçilmiş kaliteli sütten elde edilir.",
+    "Tuzsuz formülü, özellikle hassas tatlılar, kremalı soslar ve özel fırıncılık ürünlerinde saf tereyağı lezzetini öne çıkarır.",
+    "Fransız croissant'ından Türk baklavasına kadar, katmanlı hamur işlerinde tereyağının kristalleşme özellikleri mükemmel sonuçlar verir.",
+    "Tatlı krema tadı ve ipeksi yumuşak dokusu, kahvaltılık ekmek üzerinde lüks bir deneyim sunar.",
+    "Düşük ısılarda bile kolayca eriyerek homojen bir karışım sağlar, bu özelliği hollandaise ve bearnaise gibi nazik soslar için idealdir.",
+    "Çikolatalı ganaj, karamel ve krema gibi tatlı uygulamalarda saf tereyağı aroması, kompozisyona derinlik katar.",
+    "A, D, E ve K vitaminleri açısından zengin olması, bu vitaminlerin yağda çözünür olması nedeniyle vücutta emilimini kolaylaştırır.",
+    "500 gramlık kompakt ambalajı, hem ev kullanıcıları hem de küçük ölçekli profesyonel mutfaklar için ideale yakın bir miktardır.",
+    "Gıda bilimcileri tarafından 'sarı altın' olarak adlandırılan tuzsuz tereyağı, kendi doğal lezzetiyle en saf haliyle tadılmalıdır."
+  ],
+  "otherDesc": [
+    { "name": "Saklama Koşulları", "value": "4°C'nin altında buzdolabında saklayınız", "type": "info" },
+    { "name": "Son Kullanma Tarihi", "value": "Açıldıktan sonra 15 gün içinde tüketiniz", "type": "info" },
+    { "name": "Süt Tipi", "value": "İnek sütü kremasından üretilmiştir", "type": "spec" },
+    { "name": "Yağ Oranı", "value": "En az %82", "type": "spec" },
+    { "name": "Tuz", "value": "Tuzsuz", "type": "spec" },
+    { "name": "Üretim Yöntemi", "value": "Pastörize", "type": "spec" },
+    { "name": "Alerjen", "value": "Süt ve süt ürünleri içerir", "type": "spec" },
+    { "name": "Kalori (100g)", "value": "717 kcal", "type": "nutrition" },
+    { "name": "Yağ (100g)", "value": "81 g", "type": "nutrition" },
+    { "name": "Doymuş Yağ (100g)", "value": "51 g", "type": "nutrition" },
+    { "name": "Protein (100g)", "value": "0,85 g", "type": "nutrition" },
+    { "name": "Karbonhidrat (100g)", "value": "0,06 g", "type": "nutrition" }
+  ],
+  "aggregateRating": {
+    "ratingValue": "5",
+    "reviewCount": "2",
+    "bestRating": "5",
+    "worstRating": "1"
+  },
+  "review": {
+    "ratingValue": "5",
+    "author": "Hatice B.",
+    "date": "2026-02-03",
+    "body": "Tuzsuz tereyağı bulmak çok zordu, üstelik bu kalitede. Bebek mamasında ve tatlılarda gönül rahatlığıyla kullanıyorum. Doğal aroması ve lezzeti her şeye değiyor."
+  }
+}

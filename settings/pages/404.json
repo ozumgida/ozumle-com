@@ -1,0 +1,6 @@
+{
+  "title": "404 - Sayfa Bulunamadı | Özüm'le",
+  "description": "Aradığınız sayfa bulunamadı. Lütfen ana sayfamıza dönerek gezinmeye devam edin.",
+  "keywords": "sayfa bulunamadı, 404",
+  "partials": ["article-header", "page-image", "parts", "article-footer"]
+}

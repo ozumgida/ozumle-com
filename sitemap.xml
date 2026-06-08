@@ -1,51 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-    <url>
-        <loc>https://ozumle.com/index.html</loc>
-        <priority>1.0</priority>
-    </url>
-    <url>
-        <loc>https://ozumle.com/urunlerimiz.html</loc>
-        <priority>0.7</priority>
-    </url>
-    <url>
-        <loc>https://ozumle.com/products/erzincan-tulum-peyniri-500gr.html</loc>
-        <priority>0.8</priority>
-    </url>
-    <url>
-        <loc>https://ozumle.com/products/erzincan-tulum-peyniri-1000gr.html</loc>
-        <priority>0.8</priority>
-    </url>
-    <url>
-        <loc>https://ozumle.com/products/tuzlu-tereyagi-900gr.html</loc>
-        <priority>0.8</priority>
-    </url>
-    <url>
-        <loc>https://ozumle.com/products/tuzsuz-tereyagi-500gr.html</loc>
-        <priority>0.8</priority>
-    </url>
-    <url>
-        <loc>https://ozumle.com/hakkimizda.html</loc>
-        <priority>0.6</priority>
-    </url>
-    <url>
-        <loc>https://ozumle.com/lezzetimizin-hikayesi.html</loc>
-        <priority>0.6</priority>
-    </url>
-    <url>
-        <loc>https://ozumle.com/satis-sozlesmesi.html</loc>
-        <priority>0.6</priority>
-    </url>
-    <url>
-        <loc>https://ozumle.com/gizlilik-politikasi.html</loc>
-        <priority>0.6</priority>
-    </url>
-    <url>
-        <loc>https://ozumle.com/kvkk.html</loc>
-        <priority>0.6</priority>
-    </url>
-    <url>
-        <loc>https://ozumle.com/iletisim.html</loc>
-        <priority>0.6</priority>
-    </url>
-</urlset>
+<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"><url><loc>https://ozumle.com/</loc><priority>1.0</priority></url><url><loc>https://ozumle.com/pages/urunlerimiz.html</loc><priority>0.7</priority></url>
+<url><loc>https://ozumle.com/pages/iletisim.html</loc><priority>0.7</priority></url>
+<url><loc>https://ozumle.com/pages/lezzetimizin-hikayesi.html</loc><priority>0.6</priority></url>
+<url><loc>https://ozumle.com/pages/hakkimizda.html</loc><priority>0.6</priority></url>
+<url><loc>https://ozumle.com/pages/site-haritasi.html</loc><priority>0.4</priority></url>
+<url><loc>https://ozumle.com/pages/satis-sozlesmesi.html</loc><priority>0.3</priority></url>
+<url><loc>https://ozumle.com/pages/kvkk.html</loc><priority>0.3</priority></url>
+<url><loc>https://ozumle.com/pages/gizlilik-politikasi.html</loc><priority>0.3</priority></url><url><loc>https://ozumle.com/products/erzincan-tulum-peyniri-1000gr.html</loc><priority>0.8</priority></url><url><loc>https://ozumle.com/products/erzincan-tulum-peyniri-500gr.html</loc><priority>0.8</priority></url><url><loc>https://ozumle.com/products/tuzlu-tereyagi-900gr.html</loc><priority>0.8</priority></url><url><loc>https://ozumle.com/products/tuzsuz-tereyagi-500gr.html</loc><priority>0.8</priority></url></urlset>
